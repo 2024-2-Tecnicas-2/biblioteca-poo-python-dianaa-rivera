@@ -1,2 +1,5 @@
 if __name__ == '__main__':
-    # TODO: Aquí va el código que inicializa tu aplicación.
+    
+    libro = Libro("Cien años de soledad", 1967, "Gabriel Garcia Márquez", 447)
+    
+    libro.mostrarInfo()
